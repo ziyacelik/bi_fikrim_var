@@ -1,0 +1,17 @@
+body{
+	background-color : #d7f1ff;
+}
+
+.project-item{
+	margin : 20px;
+	border : 1px solid gray;
+	width : 20%
+}
+
+card{
+	margin:10px;
+}
+
+.nav-item {
+	margin : 0px 20px 0px 20px;
+}
